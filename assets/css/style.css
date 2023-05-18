@@ -1,3 +1,8 @@
-body {
+#heading {
+    font-family: 'Arvo', serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 300%;
+    color: white;
     background-color: blue;
 }
